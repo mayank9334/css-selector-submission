@@ -1,0 +1,15 @@
+body{ background-color: rgb(255,153,51) ;}
+
+.head{ color: darkblue; }
+
+#bglime{ background-color: lightgreen; }
+
+span{ color: red;}
+
+p{ color: white; }
+
+#para{ color: green; }
+
+#paragraph{ color: black;
+            font-size: 30px;
+          }
